@@ -8,7 +8,6 @@ using System.Web.UI;
 public partial class contact : System.Web.UI.Page
 {
     int RecordCnt = 0;
-    // protected string strSqlConnect = "Data Source=LAPTOP-KMD12G02\\SQLEXPRESS;Initial Catalog=dbNewsLetter;Integrated Security=True";
 
     Stack stkParam = new Stack();
 
