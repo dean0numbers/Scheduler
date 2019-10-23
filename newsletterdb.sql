@@ -1,6 +1,6 @@
-CREATE DATABASE dbTest
+CREATE DATABASE dbNewsLetter
 
-USE dbTest
+USE dbNewsLetter
 
 CREATE TABLE [dbo].[Contacts] (
     [pKey]     INT                 IDENTITY (1, 1) NOT NULL,
